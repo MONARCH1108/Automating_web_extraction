@@ -1,3 +1,0 @@
- job : virtusaconsultingservicespvt.ltd.
- req_skills : python,java,debugging,communication,selfstarter,jobposting
- more_info : https://www.timesjobs.com/job-detail/python-virtusa-consulting-services-pvt-ltd-6-to-9-yrs-jobid-y0uIgU9wNkpzpSvf__PLUS__uAgZw==&source=srp

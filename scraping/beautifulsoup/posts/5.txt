@@ -1,3 +1,0 @@
- job : virtusaconsultingservicespvt.ltd.
- req_skills : pythondevelopment,objectorientedprogramming,databaseconnectors,testdrivendevelopment,linuxenvironment,git,api
- more_info : https://www.timesjobs.com/job-detail/python-virtusa-consulting-services-pvt-ltd-pune-8-to-11-yrs-jobid-XfVNZZl9S__PLUS__VzpSvf__PLUS__uAgZw==&source=srp

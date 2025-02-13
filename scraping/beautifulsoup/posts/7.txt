@@ -1,3 +1,0 @@
- job : virtusaconsultingservicespvt.ltd.
- req_skills : pythondevelopment,javaproficiency,debuggingskills,problemsolving,communicationskills,jobposting
- more_info : https://www.timesjobs.com/job-detail/python-virtusa-consulting-services-pvt-ltd-4-to-6-yrs-jobid-VS__SLASH__PexBPRktzpSvf__PLUS__uAgZw==&source=srp
