@@ -1,0 +1,3 @@
+ job : virtusaconsultingservicespvt.ltd.
+ req_skills : **pythondevelopment,softwaredevelopment,debuggingskills,problemsolving,communicationskills**,css,softwareengineer
+ more_info : https://www.timesjobs.com/job-detail/python-virtusa-consulting-services-pvt-ltd-5-to-8-yrs-jobid-3yWydZwNeVFzpSvf__PLUS__uAgZw==&source=srp
