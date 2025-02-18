@@ -10,5 +10,6 @@ print(soup.prettify())
 
 with open('page_source.html', 'w' , encoding= 'utf - 8') as file:
     file.write(soup.prettify())
-    
+
+#this is for scraping finance yahoo
 
